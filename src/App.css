@@ -16,11 +16,11 @@
 }
 
 .App-header {
-  position: absolute; /* Absolute positioning */
+  position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); /* Center horizontally and vertically */
-  width: 40vw; /* Adjust width if necessary */
+  transform: translate(-50%, -50%); 
+  width: 40vw; 
   padding: 3rem;
   
   display: flex;
@@ -30,8 +30,8 @@
   font-size: calc(5px + 1vmin);
   color: rgb(0, 0, 0);
   
-  box-shadow: 0 0 20px rgba(0, 191, 255, 1), 0 0 40px rgba(0, 191, 255, 1); /* Blue shadow glow */
-  border-radius: 10px; /* Add rounded corners if needed */
+  box-shadow: 0 0 20px rgba(0, 191, 255, 1), 0 0 40px rgba(0, 191, 255, 1);
+  border-radius: 10px; 
 }
 
 .App-link {

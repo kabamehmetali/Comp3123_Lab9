@@ -1,10 +1,12 @@
-// App.js
+// Mehmet Ali KABA
+// 101453763
+
 import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  // Initialize state with student information
+  
   const [student] = useState({
     studentID: '101453763',
     name: 'Mehmet Ali KABA',
